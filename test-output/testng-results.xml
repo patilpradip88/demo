@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-17T14:10:48 IST" name="Default suite" finished-at="2022-11-17T14:10:54 IST" duration-ms="6193">
+    <groups>
+    </groups>
+    <test started-at="2022-11-17T14:10:48 IST" name="Default test" finished-at="2022-11-17T14:10:54 IST" duration-ms="6193">
+      <class name="Jdbc1_java.Demoweb">
+        <test-method signature="demo()[pri:0, instance:Jdbc1_java.Demoweb@346d61be]" started-at="2022-11-17T14:10:48 IST" name="demo" finished-at="2022-11-17T14:10:54 IST" duration-ms="6121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- Jdbc1_java.Demoweb -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
